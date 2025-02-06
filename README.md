@@ -1,12 +1,12 @@
-#Paddy-Disease-Classification
+# Paddy-Disease-Classification
 
 Paddy-Disease-Classification is an innovative solution designed to automate disease identification in paddy farming, a crucial step in mitigating yield losses caused by pests and diseases. By leveraging advanced image processing and deep learning techniques, this tool empowers farmers with accessible decision-support tools for effective crop protection.
 
-##🌟 Why Paddy-Disease-Classification?
+## 🌟 Why Paddy-Disease-Classification?
 
 Pests and diseases can cause up to 70% yield loss in paddy farming, threatening food security. However, expert supervision is often limited, and manual disease identification is both time-consuming and prone to errors. Paddy-Disease-Classification solves this problem by providing an automated, efficient, and accurate disease detection tool that makes advanced agricultural insights accessible even in remote areas.
 
-##🛠 Key Features
+## 🛠 Key Features
 
 1. **Automated Disease Identification**
 
@@ -30,7 +30,7 @@ Designed for ease of use by farmers and agricultural workers with minimal techni
 
 Capable of processing large datasets for diverse agricultural environments.
 
-##🔍 How It Works
+## 🔍 How It Works
 
 1. Farmers upload images of affected paddy plants.
 
@@ -42,13 +42,13 @@ Capable of processing large datasets for diverse agricultural environments.
 
 - Recommended preventive and corrective measures
 
-##📈 Accuracy Metrics
+## 📈 Accuracy Metrics
 
 - High accuracy in classification using deep learning models.
 
 - Performance evaluations based on real-world dataset testing.
 
-##🚀 Technology Stack
+## 🚀 Technology Stack
 
 - Programming Language: Python
 
@@ -58,7 +58,7 @@ Capable of processing large datasets for diverse agricultural environments.
 
 - Image Processing: OpenCV
 
-##🌱 Getting Started
+## 🌱 Getting Started
 
 - Prerequisites
 
@@ -68,7 +68,7 @@ Capable of processing large datasets for diverse agricultural environments.
 
 - GPU support for faster processing (optional)
 
-##Installation
+## Installation
 
 - Clone the repository:
 
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 python app.py
 
-##🌐 Contributing
+## 🌐 Contributing
 
 We welcome contributions from the community. If you want to contribute:
 
@@ -95,10 +95,10 @@ We welcome contributions from the community. If you want to contribute:
 
 - Submit a pull request with your changes.
 
-##📜 License
+## 📜 License
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
-##🤝 Acknowledgments
+## 🤝 Acknowledgments
 
 - This project is inspired by the need for sustainable agriculture and food security. Special thanks to all contributors and researchers in the field of agricultural technology.
